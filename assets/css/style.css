@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.text-color {
+    color: white;
+}
+
+header h1 {
+    font-size: 50px;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+header img {
+    width: 100%;
+    height: 727px;
+}
+
+.background-colorblack {
+    background-color: black;
+}
+
+.background-colorbrown {
+    background-color: #1E1A13;
+}
+
+/*Main Section*/
+section {
+    height: 348px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1-div-section {
+    width: 475px;
+    height: 197px;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+.box2-div-section {
+    padding-top: 50px;
+    padding-right: 150px;
+
+}
+
+.box2-div-section img {
+    width: 399px;
+    height: 237px;
+}
+
+/*Main aside*/
+aside {
+    height: 348px;
+}
+
+aside h2 {
+    font-size: 40px;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 75px;
+    text-align: center;
+}
+
+aside p {
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.box1-div-aside {
+    padding-top: 50px;
+    padding-left: 326px;
+}
+
+.box2-div-aside {
+    padding-top: 50px;
+}
+
+.box3-div-aside {
+    padding-top: 50px;
+    padding-right: 323px;
+}
+
+/*Main Nav*/
+nav {
+    height: 348px;
+}
+
+.img-size {
+    width: 316px;
+    height: 202px;
+}
+
+.box1-div-nav {
+    padding-left: 250px;
+    padding-top: 73px;
+}
+
+.box2-div-nav {
+    padding-top: 73px;
+}
+
+.box3-div-nav {
+    padding-right: 250px;
+    padding-top: 73px;
+}
+
+.box-div-img {
+    width: 316px;
+    height: 202px;
+}
+
+/*Footer*/
+footer {
+    height: 102px;
+}
+
+footer p {
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 39px;
+    text-align: center;
+}
